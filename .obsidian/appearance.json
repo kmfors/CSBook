@@ -1,0 +1,10 @@
+{
+  "accentColor": "#2156f2",
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "textFontFamily": "FiraCode Nerd Font",
+  "monospaceFontFamily": "FiraCode Nerd Font",
+  "interfaceFontFamily": "FiraCode Nerd Font",
+  "baseFontSize": 16,
+  "nativeMenus": false
+}

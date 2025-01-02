@@ -1,0 +1,27 @@
+{
+  "promptDelete": false,
+  "trashOption": "none",
+  "attachmentFolderPath": "1_store/1_asset",
+  "strictLineBreaks": true,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "autoPairBrackets": true,
+  "autoPairMarkdown": true,
+  "smartIndentList": true,
+  "vimMode": false,
+  "useTab": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "autoConvertHtml": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showInlineTitle": false,
+  "readableLineLength": false,
+  "defaultViewMode": "preview"
+}
