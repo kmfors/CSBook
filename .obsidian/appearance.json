@@ -1,10 +1,10 @@
 {
-  "accentColor": "#2156f2",
-  "cssTheme": "Minimal",
-  "theme": "obsidian",
-  "textFontFamily": "FiraCode Nerd Font",
-  "monospaceFontFamily": "FiraCode Nerd Font",
-  "interfaceFontFamily": "FiraCode Nerd Font",
+  "accentColor": "#37b97c",
+  "cssTheme": "Border",
+  "theme": "moonstone",
+  "textFontFamily": "CommitMono Nerd Font",
+  "monospaceFontFamily": "CommitMono Nerd Font",
+  "interfaceFontFamily": "CommitMono Nerd Font",
   "baseFontSize": 16,
   "nativeMenus": false
 }
