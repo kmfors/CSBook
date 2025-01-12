@@ -4,5 +4,7 @@
   "mousewheel-image-zoom",
   "obsidian-git",
   "obsidian-style-settings",
-  "custom-font-loader"
+  "custom-font-loader",
+  "contribution-graph",
+  "dataview"
 ]
