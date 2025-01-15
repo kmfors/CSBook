@@ -1,10 +1,10 @@
 {
-  "accentColor": "#37b97c",
+  "accentColor": "",
   "cssTheme": "Border",
   "theme": "moonstone",
   "textFontFamily": "CommitMono Nerd Font",
   "monospaceFontFamily": "CommitMono Nerd Font",
   "interfaceFontFamily": "CommitMono Nerd Font",
-  "baseFontSize": 15,
+  "baseFontSize": 16,
   "nativeMenus": false
 }

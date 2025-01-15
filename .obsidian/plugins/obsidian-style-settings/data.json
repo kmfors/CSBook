@@ -1,6 +1,6 @@
 {
   "Editor@@img-center-align": false,
-  "Editor@@codeblock-style-select": "codeblock-style-one-dark",
+  "Editor@@codeblock-style-select": "codeblock-style-dracula",
   "Editor@@file-line-width": "1600px",
   "Components@@CTA-BTN-enable": false,
   "Components@@file-names-untrim": false,
@@ -38,13 +38,13 @@
   "minimal-style@@h1-l": true,
   "minimal-style@@h1-weight": 600,
   "minimal-style@@h1-size": "1.8em",
-  "Appearance-light@@card-layout-open-light": true,
-  "Appearance-light@@accent-color-override-light": false,
   "Editor@@inline-title-size": "2em",
   "Editor@@h1-size": "2em",
   "Editor@@h2-size": "1.8em",
   "Editor@@h3-size": "1.4em",
   "Editor@@h4-size": "1.2em",
   "Editor@@h5-size": "1em",
-  "Editor@@h6-size": "1em"
+  "Editor@@h6-size": "1em",
+  "Appearance-light@@card-layout-open-light": true,
+  "Appearance-dark@@card-layout-open-dark": true
 }
