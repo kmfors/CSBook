@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "Border",
+  "theme": "moonstone",
+  "textFontFamily": "CommitMono Nerd Font",
+  "monospaceFontFamily": "CommitMono Nerd Font",
+  "interfaceFontFamily": "CommitMono Nerd Font",
+  "baseFontSize": 16,
+  "nativeMenus": false
+}

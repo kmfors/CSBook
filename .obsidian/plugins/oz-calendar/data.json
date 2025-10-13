@@ -1,0 +1,18 @@
+{
+  "openViewOnStart": true,
+  "calendarType": "US",
+  "dateSource": "yaml",
+  "yamlKey": "created",
+  "dateFormat": "YYYY-MM-DD hh:mm:ss",
+  "defaultFolder": "/2_daily/2024/3月",
+  "defaultFileNamePrefix": "YYYY-MM-DD",
+  "fixedCalendar": false,
+  "showDestinationFolderDuringCreate": true,
+  "allowSlashhDuringCreate": false,
+  "openFileBehaviour": "current-tab",
+  "sortingOption": "name",
+  "newNoteDate": "current-date",
+  "newNoteCancelButtonReverse": false,
+  "fileNameOverflowBehaviour": "hide",
+  "showWeekNumbers": false
+}
