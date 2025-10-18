@@ -80,3 +80,29 @@ ssh-add ~/.ssh/id_ed25519
 >
 > `ssh -T` 选项的意思是 "不分配伪终端"。GitHub 出于安全考虑，**不提供任何形式的 shell 访问权限**，无论是交互式登录还是命令执行。当使用 `ssh -T git@github.com` 测试时，GitHub 会验证你的 SSH 密钥，然后立即关闭连接，同时显示认证成功的提示信息。
 
+
+
+## ssh 免密登录
+
+将本地公钥匙上传至远程服务器命令：
+
+```shell
+ssh-copy-id -p 22 root@xxxx.com
+```
+
+若上传命令不可用，可手动上传公钥：
+
+```shell
+cat ~/.ssh/id_ed25519.pub
+echo "your_public_key_contents" >> ~/.ssh/authorized_keys
+```
+
+打开VSCode，编辑remote配置文件
+
+```
+Host myserver
+    HostName xxxx.com
+    User root
+    IdentityFile ~/.ssh/id_ed25519
+```
+
