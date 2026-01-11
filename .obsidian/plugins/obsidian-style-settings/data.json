@@ -17,8 +17,6 @@
   "Editor@@ul-marker-restore": false,
   "Editor@@callout-style-select": "callout-style-customize",
   "Editor@@inline-code-normal@@light": "#F45913",
-  "Editor@@p-spacing": "1em",
-  "Editor@@line-height-customize": 1.5,
   "Components@@outline-enhanced": false,
   "Components@@colorful-folder": true,
   "Mobile@@card-layout-pad-open": false,
@@ -46,5 +44,7 @@
   "Editor@@h5-size": "1em",
   "Editor@@h6-size": "1em",
   "Appearance-light@@card-layout-open-light": true,
-  "Appearance-dark@@card-layout-open-dark": true
+  "Appearance-dark@@card-layout-open-dark": true,
+  "Editor@@line-height-customize": 1.75,
+  "Editor@@p-spacing": "1.25em"
 }

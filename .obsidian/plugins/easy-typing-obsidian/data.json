@@ -53,7 +53,7 @@
   "userSelRuleSettingsOpen": true,
   "userDelRuleSettingsOpen": true,
   "userCvtRuleSettingsOpen": true,
-  "StrictModeEnter": false,
+  "StrictModeEnter": true,
   "StrictLineMode": "enter_twice",
   "EnhanceModA": false,
   "TryFixChineseIM": true,

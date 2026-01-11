@@ -2,9 +2,9 @@
   "accentColor": "",
   "cssTheme": "Border",
   "theme": "moonstone",
-  "textFontFamily": "CommitMono Nerd Font",
-  "monospaceFontFamily": "CommitMono Nerd Font",
-  "interfaceFontFamily": "CommitMono Nerd Font",
+  "textFontFamily": "霞鹜文楷,CommitMono Nerd Font",
+  "monospaceFontFamily": "霞鹜文楷,CommitMono Nerd Font",
+  "interfaceFontFamily": "霞鹜文楷,CommitMono Nerd Font",
   "baseFontSize": 16,
   "nativeMenus": false
 }
