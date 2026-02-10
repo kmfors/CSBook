@@ -1,6 +1,6 @@
 {
   "openViewOnStart": true,
-  "calendarType": "US",
+  "calendarType": "ISO 8601",
   "dateSource": "yaml",
   "yamlKey": "created",
   "dateFormat": "YYYY-MM-DD hh:mm:ss",

@@ -1,10 +1,10 @@
 {
   "accentColor": "",
   "cssTheme": "Border",
-  "theme": "moonstone",
-  "textFontFamily": "霞鹜文楷,CommitMono Nerd Font",
-  "monospaceFontFamily": "霞鹜文楷,CommitMono Nerd Font",
-  "interfaceFontFamily": "霞鹜文楷,CommitMono Nerd Font",
+  "theme": "obsidian",
+  "textFontFamily": "FiraCode Nerd Font",
+  "monospaceFontFamily": "FiraCode Nerd Font",
+  "interfaceFontFamily": "",
   "baseFontSize": 16,
   "nativeMenus": false
 }

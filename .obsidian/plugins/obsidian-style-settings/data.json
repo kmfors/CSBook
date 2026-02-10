@@ -46,5 +46,9 @@
   "Appearance-light@@card-layout-open-light": true,
   "Appearance-dark@@card-layout-open-dark": true,
   "Editor@@line-height-customize": 1.75,
-  "Editor@@p-spacing": "1.25em"
+  "Editor@@p-spacing": "1.25em",
+  "Appearance-light@@theme-light-style-select": "theme-light-background-adapt",
+  "Appearance-light@@accent-color-override-light": false,
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-brighter",
+  "Appearance-dark@@accent-color-override-dark": false
 }
